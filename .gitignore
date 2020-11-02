@@ -1,0 +1,11 @@
+# CLion
+.idea/
+cmake-build-debug/
+
+
+# Generated Files
+parser.output
+parser.h
+parser.cpp
+location.hh
+lexer.cpp
